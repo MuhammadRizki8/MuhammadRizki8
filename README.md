@@ -14,15 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi! 👋 I'm Rizki.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
-
-I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service.
-
-- 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
-- 🌱 I’m currently learning about cloud technology for back-end apps
-- 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: dimas@dicoding.com
-- ⚡ Fun fact: Father of a daughter
+I am a Computer Science student. With a strong passion for computer science, I have acquired knowledge and skills in programming, algorithms, data structures, databases, artificial intelligence, and computer networks.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
@@ -40,9 +32,10 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+<!--
 ### Reach me on
-- <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/rizki-muhammad-32b4b4203/">LinkedIn</a>
 - <a href="https://dmds.dev">dmds.dev</a>
 - dimas@dicoding.com
 - <a href="https://twitter/dimsmds">Twitter</a>
+-->
