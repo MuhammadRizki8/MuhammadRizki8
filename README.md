@@ -18,11 +18,10 @@ I am a Computer Science student. With a strong passion for computer science, I h
 
 ### Tech Stack
    <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-    <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
+    <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" /></a>
     <a href="#"><img align="left" alt="Python" title="Python" width="60px" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" /></a>
     <a href="#"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" /></a>
-    <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-    <br>
+   <br>
     <br>
   
 ### Github Statistic
