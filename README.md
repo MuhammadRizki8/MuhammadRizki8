@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi! 👋 I'm Rizki.
 
-I am a Computer Science student. With a strong passion for computer science, I have acquired knowledge and skills in programming, algorithms, data structures, databases, artificial intelligence, and computer networks.
+I am a Computer Science student.
 
 ### Tech Stack
    <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
