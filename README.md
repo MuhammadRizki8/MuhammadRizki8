@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 I am a Computer Science student.
 
 ### Tech Stack
-   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
     <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" /></a>
     <a href="#"><img align="left" alt="Python" title="Python" width="60px" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" /></a>
     <a href="#"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" /></a>
