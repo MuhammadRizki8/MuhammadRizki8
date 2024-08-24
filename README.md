@@ -20,6 +20,8 @@
 </p>
 
 ### 🎓I'm a computer science student
+### I'm interested in web development 💻 and AI🧠.
+### currently learning front end development
 
 
 ### 🚀 Languages and Tools:
