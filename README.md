@@ -21,7 +21,7 @@
 
 ### 🎓I'm a computer science student
 ### I'm interested in web development 💻 and AI🧠.
-### currently learning front end development
+### currently learning back end development
 
 
 ### 🚀 Languages and Tools:
