@@ -15,7 +15,6 @@
 ---
 
 ### 👨‍🎓 About Me
-- 🎓 I'm a Computer Science student at Universitas Pendidikan Indonesia  
 - 💻 Passionate about Web Development and Artificial Intelligence  
 - 🌱 Always open to collaboration and learning new things  
 
