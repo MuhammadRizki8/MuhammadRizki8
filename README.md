@@ -30,19 +30,6 @@
 
 ### 👨‍🎓 About Me
 
-```yaml
-name: Muhammad Rizki
-role: Software Engineer
-location: Indonesia
-focus_areas:
-  - AI-driven Solutions
-  - Full-Stack Development
-  - Cloud Engineering
-certifications:
-  - Google Certified Associate Cloud Engineer
-current_learning: Agentic AI
-```
-
 - 💻 **Software Engineer** specializing in **AI-driven solutions** and **Full-Stack Development**
 - ☁️ **Google Certified Associate Cloud Engineer**
 - 🤖 Experienced in building **RAG pipelines**, **LLM Fine-tuning**, and web apps
@@ -105,9 +92,11 @@ current_learning: Agentic AI
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadRizki8/MuhammadRizki8/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadRizki8/MuhammadRizki8/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadRizki8/MuhammadRizki8/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/MuhammadRizki8/MuhammadRizki8/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
