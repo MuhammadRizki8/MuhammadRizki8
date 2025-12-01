@@ -1,4 +1,5 @@
-<img width="2560" height="473" alt="image" src="https://github.com/user-attachments/assets/f0d67289-fa96-4034-8017-472a15f5defd" /><img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/b581383a-99df-44fb-b205-696bb49ee81f" />
+
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/4d113cb5-9f1a-4138-bcb2-aca6b0fbf64a" />
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rizki</h1>
 
@@ -37,7 +38,7 @@
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS"/> </a>
   <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter"/> </a>
   <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/> </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.icons8.com/color/48/api-settings.png" alt="FastAPI"/> </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/2560px-FastAPI_logo.svg.png" alt="FastAPI" width="150"/> </a>
   <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/laravel.png" alt="Laravel"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/> </a>
   <a href="https://redis.io/" target="_blank"> <img src="https://img.icons8.com/color/48/redis.png" alt="Redis"/> </a>
