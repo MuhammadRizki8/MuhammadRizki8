@@ -64,13 +64,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MuhammadRizki8&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRizki8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadRizki8&theme=cobalt&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=MuhammadRizki8&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 ---
 
 ### 📊 Activity Graph
