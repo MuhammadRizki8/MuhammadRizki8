@@ -1,5 +1,4 @@
-
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/4d113cb5-9f1a-4138-bcb2-aca6b0fbf64a" />
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/e0bce806-2c3c-4ee9-894f-9e8387cfec24" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MuhammadRizki8&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
